@@ -1,12 +1,20 @@
 Give it an input & output directories.
 
+### For Photos:
+
 Set the maximum height & width.
+
+Run it.
+
+### For Audio:
+
+Set the desired kbps.
 
 Run it.
 
 ---
 
-Uses the .thumbnail method from PIL.
+Dependencies: PIL (pillow), pydub
 
 ---
 
