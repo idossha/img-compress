@@ -51,6 +51,6 @@ def compress_audio(input_dir, output_dir, target_bitrate):
 
 input_directory = "/Users/idohaber/Desktop/Website assets/04_assets_music_audio"
 output_directory = "/Users/idohaber/Desktop/audio_output"
-target_bitrate = "128k"  # Adjust the target bitrate as needed
+target_bitrate = "64k"  # Adjust the target bitrate as needed
 
 compress_audio(input_directory, output_directory, target_bitrate)
