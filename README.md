@@ -1,4 +1,4 @@
-Give it an input & output directories.
+Give it input & output directories.
 
 ### For Photos:
 
@@ -12,9 +12,15 @@ Set the desired kbps.
 
 Run it.
 
+### For Video
+
+Set desired level of compression.
+
+Run it.
+
 ---
 
-Dependencies: PIL (pillow), pydub
+Dependencies: PIL aka pillow (photo), pydub(audio), ffmpeg(video)
 
 ---
 
