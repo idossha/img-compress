@@ -22,6 +22,7 @@ Run it.
 
 #### Structure:
 
+```
 iCompress/
 │
 ├── audio/
@@ -39,6 +40,8 @@ iCompress/
 └── setup.py
 │
 └── README.md
+
+```
 
 ---
 
