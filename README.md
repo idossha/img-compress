@@ -20,31 +20,6 @@ Run it.
 
 ---
 
-#### Structure:
-
-```
-iCompress/
-│
-├── audio/
-│ ├── **init**.py
-│ └── audio_compress.py
-│
-├── video/
-│ ├── **init**.py
-│ └── video_compress.py
-│
-├── photo/
-│ ├── **init**.py
-│ └── photo_compress.py
-│
-└── setup.py
-│
-└── README.md
-
-```
-
----
-
 Dependencies: PIL aka pillow (photo), pydub(audio), ffmpeg(video)
 
 ---
